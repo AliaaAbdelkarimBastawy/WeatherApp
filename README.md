@@ -1,5 +1,3 @@
-**Weather Flutter App README**
-
 Welcome to our Weather Flutter App! 🌤️ This application offers a user-friendly platform to search for weather details of any city worldwide. With this app, you can swiftly access comprehensive weather information including the current weather condition, maximum and minimum temperatures, average temperature, an illustrative image representing the weather condition, and the precise time of the weather update. ⏰
 
 **Key Features:**
